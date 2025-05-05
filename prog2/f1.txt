@@ -1,0 +1,9 @@
+//header files
+#include<stdio.h>
+void main(){
+    /*
+    let us add nummbers
+    */
+    inr a=10,b=34;
+    int c=a+b;
+}

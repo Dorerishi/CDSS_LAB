@@ -1,0 +1,7 @@
+
+#include<stdio.h>
+void main(){
+    
+    inr a=10,b=34;
+    int c=a+b;
+}
